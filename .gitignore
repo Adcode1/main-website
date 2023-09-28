@@ -1,5 +1,3 @@
 node_modules
 .env
 .hintrc
-api/credentials.json
-api/token.json
