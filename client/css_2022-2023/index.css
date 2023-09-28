@@ -3215,7 +3215,7 @@ min-height: 100vh;
   background-color: transparent;
 } */
 #contact{
-background-color: #c70039;; /* Dark background color */
+background-color: #333; /* Dark background color */
  /* Shadow effect */
 padding: 20px; /* Add some padding to improve visual appearance */
 }
@@ -3277,15 +3277,16 @@ padding: 20px; /* Add some padding to improve visual appearance */
     border-right: 1px solid #ddd;
   }
 }
+
 /* Newsletter Section
 --------------------------------*/
-/* #newsletter {
+#newsletter {
   height: cover;
   height: 200px;
   background-color: rgb(55, 4, 55);
-} */
+}
 #newsletter {
-  background-color: #c70039; /* Dark background color */
+  background-color: #333; /* Dark background color */
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.7); /* Shadow effect */
   padding: 20px; /* Add some padding to improve visual appearance */
 }
@@ -3298,9 +3299,9 @@ padding: 20px; /* Add some padding to improve visual appearance */
 
 #newsletter .form-control {
   background-color: transparent;
-  border: 1px solid white;
+  border: 1px solid #965e5e;
   border-radius: 0;
-  color: #888;
+  color: #0d12ac;
   font-size: 11px;
   font-weight: 600;
   height: 50px;
@@ -3317,13 +3318,13 @@ padding: 20px; /* Add some padding to improve visual appearance */
 }
 
 #newsletter .form-control:focus {
-  border-color: greenyellow;
+  border-color: #63a058;
   box-shadow: none;
   outline: 0 none;
 }
 
 #newsletter .btn {
-  background: rgb(141, 204, 47);
+  background: #75b657;
   border: 0;
   border-radius: 0;
   height: 50px;
@@ -3376,14 +3377,14 @@ padding: 20px; /* Add some padding to improve visual appearance */
   background: #55b03f;
 }
 #newsletter h3{
-  color: whitesmoke;
+  color: #4c93c3;
 }
 #newsletter ul li i {
-  color: white;
+  color: #3242a0;
   line-height: 0;
 }
 .social-media-links {
-  background-color: #c70039;
+  background-color: #333;
   width: 100%;
   left: 0;
   bottom: 0;
@@ -3396,7 +3397,7 @@ padding: 20px; /* Add some padding to improve visual appearance */
   justify-content: center;
 }
 .social-media {
-  color: whitesmoke;
+  color: whit;
   width: 21px;
   opacity: 0.6;
   margin: 8px;
